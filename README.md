@@ -26,3 +26,8 @@ Backend: Node.js, Express
 API: Google Gemini API (via @google/generative-ai)
 
 Frontend: HTML5, CSS3, Vanilla JavaScript (ES6+)
+
+# Implementation
+Get your Gemini API key on the Google AI Studio website.
+
+Create a .env file and add GEMINI_API_KEY = "your_gemini_api_key" to it.
